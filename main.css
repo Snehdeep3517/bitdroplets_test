@@ -1,0 +1,95 @@
+.button-search,.panel
+{
+    border-radius: 0 !important;
+}
+.navbar
+{
+    box-shadow: none !important;
+    background-image: none !important;
+}
+.navbar-nav > li >a
+{
+    color:Black !important;
+    font-weight: bold !important;
+    font-size: 12px !important;
+}
+.navbar-nav > li > a:hover,.navbar-nav > li > a:focus
+{
+    color:#3b5998 !important;
+    background-color: #dfe3ee !important;
+}
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus 
+{
+            background-image:none !important;
+            background-color:#3b5998;
+            color:#FFFFFF !important;
+}
+.nav-pills > li
+{
+    border:20px !important;
+    border-color: red !important;
+}
+
+.body-panel
+{
+    min-height:700px;
+}
+.list-group > .active > a
+{
+    color:#FFFFFF !important;
+    text-decoration: none;
+}
+.list-group > li > a
+{
+    text-decoration: none;
+}
+.list-group > li:hover
+{
+    background-color:   #e5e5e5 !important;
+}
+
+.panel-heading > p
+{
+    display:inline;
+}
+
+.question-panel
+{
+    border:0px !important;
+}
+label
+{
+    margin-right:30px;
+}
+.check
+{
+    border:0px !important;
+    border-bottom: solid 1px #e5e5e5 !important;
+}
+.checkbox-selectors
+{
+    padding-left:28px !important;
+}
+.trending-panel > .panel-body , .scoreboard-panel > .panel-body
+{
+    height:200px !important;
+}
+.question-info-panel > p
+{
+    display: inline;
+}
+.question-info-panel
+{
+    background-color: #c4e6ff !important;
+}
+.question-submit-panel
+{
+    background-color:   #6497b1 !important;
+}
+.footer-here
+{
+    height:80px;
+    max-height:80px;
+    margin-bottom:0px; 
+    border-bottom:0px;
+}
