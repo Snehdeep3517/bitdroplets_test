@@ -1,2 +1,2 @@
 # bitdroplets_test
-Test Series module for bitdroplets
+Test Series module for bitdroplets.com
