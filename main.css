@@ -1,6 +1,25 @@
-.button-search,.panel
+body, html, .container-fluid {
+     height: 100%;
+}
+.main-division
+{
+    height:50%;
+}
+.button-search,.connect-panel
 {
     border-radius: 0 !important;
+}
+footer
+{
+    position:absolute;
+    bottom: 0px;
+}
+.center-x
+{ text-align:center;
+}
+.center-y
+{
+    vertical-align: middle;
 }
 .navbar
 {
@@ -20,9 +39,9 @@
 }
 .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus 
 {
-            background-image:none !important;
-            background-color:#3b5998;
-            color:#FFFFFF !important;
+   background-image:none !important;
+   background-color:#3b5998;
+   color:#FFFFFF !important;
 }
 .nav-pills > li
 {
@@ -32,7 +51,8 @@
 
 .body-panel
 {
-    min-height:700px;
+    min-height:350px;
+    max-height:350px;
 }
 .list-group > .active > a
 {
